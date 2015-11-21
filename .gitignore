@@ -3,6 +3,7 @@ temp
 .tmp
 dist
 .sass-cache
+app/scripts
 app/bower_components
 test/bower_components
 package
