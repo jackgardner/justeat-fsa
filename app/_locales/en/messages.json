@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "justeat-fsa",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Display JustEat FSA rating inline",
+    "description": "The description of the application"
+  }
+}
